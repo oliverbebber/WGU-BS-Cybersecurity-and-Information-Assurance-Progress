@@ -1,4 +1,4 @@
-# WGU BS Cybersecurity and Information-Assurance Progress
+# WGU BS Cybersecurity and Information Assurance Progress
 
 ## Term 1: October 2023 - March 2024
 
