@@ -29,3 +29,14 @@
 | ✔️ | D281        | Linux Foundations                        | 10/05/2024 | 11/04/2024     | LPI Linux Essentials       |
 | ✔️ | C963        | American Politics and the US Constitution| 10/30/2024 | 11/28/2024     |       |
 
+---
+
+## 📆 Term 3: December 2024 – May 2025
+
+| ✅ | Course Code | Course Name                             | Start Date | Completed Date | Notes |
+|----|-------------|------------------------------------------|------------|----------------|-------|
+| ✔️ | D426        | Data Management Foundations              | 12/02/2024 | 04/01/2025     |       |
+| ✔️ | D278        | Scripting and Programming Foundations    | 01/17/2025 | 01/24/2025     |       |
+| ✔️ | D324        | Business of IT Project Management        | 12/02/2024 | 04/21/2025     | CompTIA Project+      |
+| ✔️ | D427        | Data Management Applications             | 03/01/2025 | 05/31/2025     |       |
+
