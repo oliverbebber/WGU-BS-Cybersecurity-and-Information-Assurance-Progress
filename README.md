@@ -14,7 +14,7 @@
 | ✔️ | D372        | Introduction to Systems Thinking        | 12/05/2023 | 12/14/2023     |       |
 | ✔️ | D325        | Networks                                | 11/20/2023 | 01/12/2024     | CompTIA Net+      |
 | ✔️ | C955        | Applied Probability and Statistics      | 01/14/2024 | 02/04/2024     |       |
-| ✔️ | D329        | Network and Security Applications       | 01/03/2024 | 03/22/2024     | CompTIA Sec+; Delayed due to missing cat, Phoenix, escaping the night before scheduled exam. |
+| ✔️ | D329        | Network and Security Applications       | 01/03/2024 | 03/22/2024     | CompTIA Sec+; Delayed due to missing cat, Phoenix, escaping the night before my scheduled exam. |
 
 ---
 
