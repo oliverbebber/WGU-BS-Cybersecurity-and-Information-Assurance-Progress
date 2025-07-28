@@ -15,3 +15,17 @@
 | ✔️ | D325        | Networks                                | 11/20/2023 | 01/12/2024     | CompTIA Net+      |
 | ✔️ | C955        | Applied Probability and Statistics      | 01/14/2024 | 02/04/2024     |       |
 | ✔️ | D329        | Network and Security Applications       | 01/03/2024 | 03/22/2024     | CompTIA Sec+; Delayed due to missing cat, Phoenix, escaping the night before scheduled exam. |
+
+---
+
+## 📆 Term 2: June 2024 – November 2024
+
+| ✅ | Course Code | Course Name                             | Start Date | Completed Date | Notes |
+|----|-------------|------------------------------------------|------------|----------------|-------|
+| ✔️ | C683        | Natural Science Lab                      | 06/05/2024 | 06/21/2024     |       |
+| ✔️ | D336        | Business of IT Applications              | 06/05/2024 | 07/29/2024     | ITILv4       |
+| ✔️ | C845        | Information Systems Security             | 06/14/2024 | 09/26/2024     | SSCP      |
+| ✔️ | D431        | Digital Forensics in Cybersecurity       | 07/25/2024 | 08/30/2024     |       |
+| ✔️ | D281        | Linux Foundations                        | 10/05/2024 | 11/04/2024     | LPI Linux Essentials       |
+| ✔️ | C963        | American Politics and the US Constitution| 10/30/2024 | 11/28/2024     |       |
+
