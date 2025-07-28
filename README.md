@@ -40,3 +40,17 @@
 | ✔️ | D324        | Business of IT Project Management        | 12/02/2024 | 04/21/2025     | CompTIA Project+      |
 | ✔️ | D427        | Data Management Applications             | 03/01/2025 | 05/31/2025     |       |
 
+---
+
+## 📆 Term 4: June 2025 – November 2025
+
+| Status | Course Code | Course Name                             | Start Date   | Completed Date   | Notes |
+|--------|-------------|------------------------------------------|--------------|------------------|-------|
+| ✔️     | D333        | Ethics in Technology                     | 06/01/2025   | 06/15/2025       |       |
+| ✔️     | C843        | Managing Information Security            | 06/13/2025   | 06/23/2025       |       |
+| ✔️     | D334        | Introduction to Cryptography             | 06/01/2025   | 07/09/2025       |       |
+| 🟡     | D335        | Introduction to Programming in Python    | 06/26/2025   | *In Progress*    |       |
+| 🟡     | D340        | Cyber Defense and Countermeasures        | 07/17/2025   | *In Progress*    |       |
+| 🗓️     | D320        | Managing Cloud Security                  | 08/11/2025   | 09/08/2025       | Planned - CCSP|
+| 🗓️     | D332        | Penetration Testing and Vulnerability Analysis | 08/11/2025   | 10/31/2025       | Planned - CompTIA PenTest+|
+| 🗓️     | C769        | IT Capstone Written Project              | 08/25/2025   | 10/07/2025       | Planned |
