@@ -49,8 +49,8 @@
 | ✔️     | D333        | Ethics in Technology                     | 06/01/2025   | 06/15/2025       |       |
 | ✔️     | C843        | Managing Information Security            | 06/13/2025   | 06/23/2025       |       |
 | ✔️     | D334        | Introduction to Cryptography             | 06/01/2025   | 07/09/2025       |       |
-| 🟡     | D335        | Introduction to Programming in Python    | 06/26/2025   | *In Progress*    | Exam scheduled for 9/8/25      |
+| 🟡     | D335        | Introduction to Programming in Python    | 06/26/2025   | *In Progress*    | Exam scheduled for 9/15/25      |
 | ✔️     | D340        | Cyber Defense and Countermeasures        | 07/17/2025   | 08/10/2025       | CompTIA CySA+     |
 | ✔️     | D320        | Managing Cloud Security                  | 08/14/2025   | 09/01/2025       | Requested voucher for CCSP exam |
-| 🗓️     | D332        | Penetration Testing and Vulnerability Analysis | 09/8/2025   | 10/10/2025       | Planned - CompTIA PenTest+ |
+| 🟡     | D332        | Penetration Testing and Vulnerability Analysis | 09/8/2025   | *In Progress*       | Planned end date: 10/10/2025 - CompTIA PenTest+ |
 | 🗓️     | C769        | IT Capstone Written Project              | 09/22/2025   | 10/13/2025       | Planned |
