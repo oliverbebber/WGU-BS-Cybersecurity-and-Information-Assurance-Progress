@@ -23,7 +23,7 @@
 | 1    | Oct 2023 – Mar 2024    | ✅ Completed  | 11 courses                              |
 | 2    | Jun 2024 – Nov 2024    | ✅ Completed  | 6 courses                               |
 | 3    | Dec 2024 – May 2025    | ✅ Completed  | 4 courses                               |
-| 4    | Jun 2025 – Nov 2025    | 🟡 In Progress | 8 courses planned, 3 completed so far  |
+| 4    | Jun 2025 – Nov 2025    | 🟡 In Progress | 8 courses planned, 5 completed so far  |
 
 ---
 
