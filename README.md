@@ -52,5 +52,5 @@
 | 🟡     | D335        | Introduction to Programming in Python    | 06/26/2025   | *In Progress*    | Exam rescheduled      |
 | ✔️     | D340        | Cyber Defense and Countermeasures        | 07/17/2025   | 08/10/2025       | CompTIA CySA+     |
 | ✔️     | D320        | Managing Cloud Security                  | 08/14/2025   | 09/01/2025       | Requested voucher for CCSP exam |
-| 🟡     | D332        | Penetration Testing and Vulnerability Analysis | 09/8/2025   | *In Progress*       | Exam scheduled - CompTIA PenTest+ |
-| 🗓️     | C769        | IT Capstone Written Project              | 11/7/2025   | 11/30/25       | Planned |
+| ✔️     | D332        | Penetration Testing and Vulnerability Analysis | 09/8/2025   | 11/1/2025       | Exam scheduled - CompTIA PenTest+ |
+| 🗓️     | C769        | IT Capstone Written Project              | 11/3/2025   | 11/30/25       | Planned |
